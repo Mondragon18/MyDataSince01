@@ -1,0 +1,19 @@
+.text-sz {
+    font-size: 25px;
+}
+.overflow {
+    overflow: auto;
+    height: 10rem;
+}
+.overflow-x{
+    overflow-x: auto;
+}
+.h-5{
+    width: 5rem; /* 80px */
+}
+.flex-none{
+    flex: none;
+}
+.flex-auto{
+    flex: 1 1 auto;
+}

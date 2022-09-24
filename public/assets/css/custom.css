@@ -1,0 +1,28 @@
+.text-sz {
+    font-size: 25px;
+}
+.overflow {
+    overflow: auto;
+    height: 10rem;
+}
+.overflow-x{
+    overflow-x: auto;
+}
+.h-5{
+    width: 5rem; /* 80px */
+}
+.flex-none{
+    flex: none;
+}
+.flex-auto{
+    flex: 1 1 auto;
+}
+.item {
+    display: block;
+    width: 100%;
+    height: 200px;
+}
+.item img {
+    height: 100%;
+    width: 100%;
+}
